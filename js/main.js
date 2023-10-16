@@ -8,7 +8,7 @@ function basicHaiku()
 {
     return ["Winter seclusion","We saw a batman descending","The sky was gray>"]
 }
-function basichaiku2(){
+function basicHaiku2(){
 
     return ["Over the wintry forest", "winds howl in rage", "with no leaves to blow."]
 }
@@ -20,7 +20,7 @@ function basicHaiku3()
 
 haikus = [
 
-    basicHaiku(),basichaiku2(), basicHaiku3()
+    basicHaiku(),basicHaiku2(), basicHaiku3()
 ]
 
 function randomHaiku()
