@@ -15,8 +15,7 @@ function basicHaiku2()
 //zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
 
 haikus = [
-    basicHaiku()
-    basicHaiku2()
+    basicHaiku(),basicHaiku2()
 ]
 
 function randomHaiku()
